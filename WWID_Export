@@ -1,0 +1,83 @@
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdc
+3600c0ff000f947fd62c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdd
+3600c0ff000f947fd63c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sde
+3600c0ff000f947fd64c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdf
+3600c0ff000f947fd65c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdg
+3600c0ff000f947fd66c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdh
+3600c0ff000f947fd67c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdi
+3600c0ff000f947fda7d7446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdj
+3600c0ff000f947fd62c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdk
+3600c0ff000f947fd63c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdl
+3600c0ff000f947fd64c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdm
+3600c0ff000f947fd65c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdn
+3600c0ff000f947fd66c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdo
+3600c0ff000f947fd67c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdp
+3600c0ff000f947fda7d7446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdq
+3600c0ff000f947fd62c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdr
+3600c0ff000f947fd63c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sds
+3600c0ff000f947fd64c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdt
+3600c0ff000f947fd65c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdu
+3600c0ff000f947fd66c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdv
+3600c0ff000f947fd67c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdw
+3600c0ff000f947fda7d7446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdx
+3600c0ff000f947fd62c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdy
+3600c0ff000f947fd63c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdz
+3600c0ff000f947fd64c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdaa
+3600c0ff000f947fd65c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdab
+3600c0ff000f947fd66c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdac
+3600c0ff000f947fd67c9446501000000
+
+root@dh-flrepo:~# sudo /lib/udev/scsi_id --whitelisted --device=/dev/sdad
+3600c0ff000f947fda7d7446501000000
